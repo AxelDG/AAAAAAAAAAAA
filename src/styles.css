@@ -1,0 +1,79 @@
+body {
+  font-family: sans-serif;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.sub1 {
+  text-align: center;
+}
+
+.sub2 {
+  text-align: center;
+}
+
+.sub6 {
+  text-align: center;
+}
+
+.jotaro {
+  display: flex;
+  justify-content: space-around;
+  border: 4px solid black;
+}
+
+.josuke {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border: 4px solid black;
+}
+
+.JotaroPart3 {
+  border: 4px solid black;
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-left: 3%;
+}
+
+.JotaroPart4-5 {
+  border: 4px solid black;
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-left: 3%;
+}
+
+.JotaroPart6 {
+  border: 4px solid black;
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding-left: 3%;
+}
+
+img {
+  height: 100%;
+  width: 50%;
+}
+
+.JosukePart4 {
+  margin-top: 3%;
+  border: 4px solid black;
+  width: 41%;
+  display: flex;
+  flex-direction: row;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  padding: auto;
+  padding-left: 3%;
+}
